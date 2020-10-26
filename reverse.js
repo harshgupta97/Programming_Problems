@@ -1,4 +1,10 @@
 // Using arrow function 
+
+/**
+ * @description Reverse the given number
+ * @param {number} number to be reversed
+ * @return Return reverse number 1234 -> 4321
+ */
 const reverseInt = number => {
     // Checking for number
     isNumber(number);
