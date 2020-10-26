@@ -1,3 +1,9 @@
+/**
+ * @description Check if the given two strings are anagram
+ * @param {string} stringOne First string
+ * @param {string} stringTwo Second string 
+ * @returns {boolean} Return true and false
+ */
 function checkAnagram(stringOne, stringTwo) {
 
     isString(stringOne, stringTwo);
